@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    Definition="Some text">My Company Name, LLC</Variable>
+  <Variable
+    Name="PDFGuideTitle"
+    Comment=""
+    OriginalName="PDFGuideTitle">User Guide</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot">1.0</Variable>
+</CatapultVariableSet>

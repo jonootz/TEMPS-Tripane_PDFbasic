@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/A_Introduction Topics/Welcome.htm" />
+  <TocEntry
+    Title="What's New"
+    Link="/Content/A_Introduction Topics/WhatsNew.htm" />
+  <TocEntry
+    Title="More Information"
+    Link="/Content/A_Introduction Topics/MoreInformation.htm" />
+  <TocEntry
+    Title="Features"
+    Link="/Content/B_Feature Topics/Features.htm"
+    StartSection="false">
+    <TocEntry
+      Title="Feature 1"
+      Link="/Content/B_Feature Topics/Feature1.htm" />
+    <TocEntry
+      Title="Feature 2"
+      Link="/Content/B_Feature Topics/Feature2.htm" />
+    <TocEntry
+      Title="Feature 3"
+      Link="/Content/B_Feature Topics/Feature3.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Procedures"
+    Link="/Content/C_Procedure Topics/Procedures.htm"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"
+    BreakType="none">
+    <TocEntry
+      Title="Procedure 1"
+      Link="/Content/C_Procedure Topics/Procedure1.htm" />
+    <TocEntry
+      Title="Procedure 2"
+      Link="/Content/C_Procedure Topics/Procedure2.htm" />
+    <TocEntry
+      Title="Procedure 3"
+      Link="/Content/C_Procedure Topics/Procedure3.htm" />
+  </TocEntry>
+</CatapultToc>
